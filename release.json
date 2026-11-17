@@ -423,5 +423,11 @@
       "url": "https://github.com/project-rikka/packages/releases/download/binaries/viewer-0.1.0-1-x86_64-linux-5a3493da29c1452f.tar.zst",
       "hash": "sha256-8X7Fn3yObJxyrkiDSxF3ZYSQ+n91rJaDpMkUL9dHKpI="
     }
+  },
+  "installer": {
+    "version": "0.1.0",
+    "revision": "24094dd02d06fb8c6135b30b20dab3edc176f87b",
+    "url": "https://github.com/project-rikka/packages/releases/download/binaries/rikka-installer-x86_64-linux",
+    "hash": "sha256-U2OeBbLLSJlMsF/+LZREeOB1H50L+f7yBPJbsPrZ+/k="
   }
 }
