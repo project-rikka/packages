@@ -47,9 +47,9 @@
       "name": "Rikka desktop",
       "summary": "The compositor, shell, keyring, screen sharing and system services",
       "offer": "required",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "build": 1,
-      "revision": "405dee1d7120cda21781b3c70684445d45fd53e0",
+      "revision": "20da65b49ff594e2bf98074b7a11ee981e8581d6",
       "requires": null,
       "pam": [
         "rikka-lock"
@@ -69,8 +69,8 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/base-0.1.1-1-x86_64-linux-2f9cc53eedd63879.tar.zst",
-      "hash": "sha256-G9lohOy9WqszK7BIIFraFDLSOPPVxhkTGo03HqgrvpI="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/base-0.1.2-1-x86_64-linux-c6daf7666ae438b3.tar.zst",
+      "hash": "sha256-EFknhZPf6narENHruIb6tvWNfG5WfZGSnCIJiM1TQXI="
     },
     "browser": {
       "name": "Browser",
