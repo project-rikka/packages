@@ -106,8 +106,6 @@ in
           }) components;
         };
 
-        services.dbus.packages = installed;
-
         systemd.packages = installed ++ [ pkgs.xdg-user-dirs ];
 
         systemd.user.services.xdg-user-dirs.wantedBy = [ "graphical-session-pre.target" ];
