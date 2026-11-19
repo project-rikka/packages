@@ -46,11 +46,11 @@
 
 stdenv.mkDerivation (finalAttrs: {
   pname = "rikka-gecko";
-  version = "158.0.1-d64ce05c85b6";
+  version = "158.0.1-6565d635a84c";
 
   src = fetchurl {
     url = "https://github.com/project-rikka/gecko/releases/download/${finalAttrs.version}/rikka-gecko-${finalAttrs.version}-x86_64-linux.tar.zst";
-    hash = "sha256-OxJ/wKkj56THknNApGFS3nlLuiw9F5QnuIGbff1LwWY=";
+    hash = "sha256-PaVUxvzCGdP0y55t3GxeqDNrYciOkKRQ+9B2cWicFKs=";
   };
 
   sourceRoot = "rikka-gecko";
