@@ -11,9 +11,9 @@
       "name": "ADE",
       "summary": "Talk to a language model about a project",
       "offer": "offered",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -22,16 +22,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/ade-0.1.3-1-x86_64-linux-03fe490944ba9c89.tar.zst",
-      "hash": "sha256-MrcgBWuI7Q9tgLYcbsLbY56AOPiFEZNurpAS5X09uhU="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/ade-0.1.4-1-x86_64-linux-a591f58efa861c24.tar.zst",
+      "hash": "sha256-Bim6LQqpmYoVHAyTgeNBE9xMB2a6m7SMN6oXn0Zs3pA="
     },
     "animate": {
       "name": "Animate",
       "summary": "Play motions on 3D characters against a timeline with camera work and music",
       "offer": "offered",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -40,16 +40,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/animate-0.1.3-1-x86_64-linux-6cfa939edc51c4a1.tar.zst",
-      "hash": "sha256-5furdJ8qIskhdWOlAm1U42bnTVy7IkyneOawqWACEqM="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/animate-0.1.4-1-x86_64-linux-8ab201520ff1c856.tar.zst",
+      "hash": "sha256-QPzWSBi2HKhkJp32c9t3cJMUR0eNL94nsA90l2WGukU="
     },
     "base": {
       "name": "Rikka desktop",
       "summary": "The compositor, shell, keyring, screen sharing and system services",
       "offer": "required",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": null,
       "pam": [
         "rikka-lock"
@@ -69,16 +69,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/base-0.1.3-1-x86_64-linux-0292dcdeee93a3bb.tar.zst",
-      "hash": "sha256-ObLU6y+mRNRY5wp6yy6L0jVbaxfb+gpp2VIseGSJaGc="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/base-0.1.4-1-x86_64-linux-c66a2d5078c9a106.tar.zst",
+      "hash": "sha256-ceRJmLlJDUv7QoSvKOuKrTM3m0pj8XhV8KKI0Dxmt/Q="
     },
     "browser": {
       "name": "Browser",
       "summary": "Browse the web",
       "offer": "selected",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -88,16 +88,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/browser-0.1.3-1-x86_64-linux-733684f9d405348c.tar.zst",
-      "hash": "sha256-bvCGhbHuM1V+IBqIs1xfZ8ovZebOUg1kEHX+6gU0yCQ="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/browser-0.1.4-1-x86_64-linux-0d57e82dc62d3180.tar.zst",
+      "hash": "sha256-lzGKIfbczVhCVQq37gykm7quOqHyc4Vmb2JPduwaZr4="
     },
     "calculator": {
       "name": "Calculator",
       "summary": "Work out a number",
       "offer": "selected",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -106,16 +106,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/calculator-0.1.3-1-x86_64-linux-f5cbe51c3391f0dc.tar.zst",
-      "hash": "sha256-AUKXPkRL0tOrQdQFGiucZqSfMdswdtcnLV6qzkN2ehs="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/calculator-0.1.4-1-x86_64-linux-e7680dff21f0c006.tar.zst",
+      "hash": "sha256-CthYHKcOiebmfhUihwi5zLU9yV4nlmmZ24G3QReVpcE="
     },
     "cut": {
       "name": "Cut",
       "summary": "Edit videos on a timeline",
       "offer": "selected",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -124,16 +124,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/cut-0.1.3-1-x86_64-linux-d150fe657a50cdc6.tar.zst",
-      "hash": "sha256-Bs0RwecIZaseYr0Pj7sj6OHEAmgehcXR9/fGNG/NgSo="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/cut-0.1.4-1-x86_64-linux-9709bad74be178f3.tar.zst",
+      "hash": "sha256-Hrz+hZuHYAN6M8IXvWtf87Be5UixBX7bcf7+8cfQHOs="
     },
     "discord": {
       "name": "Discord",
       "summary": "Talk with friends and communities on Discord",
       "offer": "offered",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -143,16 +143,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/discord-0.1.3-1-x86_64-linux-e0017e9fa1463f73.tar.zst",
-      "hash": "sha256-pfBub4aRgq9x6CFZZHC4s/vv1ukVOJz3B9nLwQ0dFY0="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/discord-0.1.4-1-x86_64-linux-be9e1126927b86d9.tar.zst",
+      "hash": "sha256-dYxi9pVn7vf82fw7ph45uhHc9kUDmxGFW6oE0H5EaUo="
     },
     "files": {
       "name": "Files",
       "summary": "Browse the files on this computer",
       "offer": "required",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": true,
@@ -165,16 +165,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/files-0.1.3-1-x86_64-linux-a82e4cd7478a5a1e.tar.zst",
-      "hash": "sha256-i7qmR1iWT16U83j9gAzFuvYBzcwNtYthDbi/RlmUD2E="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/files-0.1.4-1-x86_64-linux-6211b39d5190fbc7.tar.zst",
+      "hash": "sha256-XtjQdjGf2jlbBfaDFC5O0HEyPOkFVAIaJ41JS/O945k="
     },
     "modeler": {
       "name": "Modeler",
       "summary": "Model, unwrap, rig and paint 3D models",
       "offer": "offered",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -183,16 +183,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/modeler-0.1.3-1-x86_64-linux-c2580009cb166723.tar.zst",
-      "hash": "sha256-1SsyiTVUJWy2r1AMffL/KtPCDGd1rFKZI/W6F2xIe3E="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/modeler-0.1.4-1-x86_64-linux-b79d91d762c8f9b8.tar.zst",
+      "hash": "sha256-Ji+8+RxvZhDsxTnrXtNIxokRqsbafW0EUWn43Y4MoXM="
     },
     "music": {
       "name": "Music",
       "summary": "Play your music library and streaming services in high resolution",
       "offer": "selected",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -202,16 +202,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/music-0.1.3-1-x86_64-linux-381743ecb1601ac0.tar.zst",
-      "hash": "sha256-mdQ/7+S/sStlJLvzZvVc9u2u+tg7jNAWpwDRh6ahk8k="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/music-0.1.4-1-x86_64-linux-13af66b7e273ea16.tar.zst",
+      "hash": "sha256-cn0SY2c5SuJiw8NNFG6knDzNFpPJBxD6IGEfYA0Sq/Y="
     },
     "packages": {
       "name": "Packages",
       "summary": "Find, install and remove the software on this machine",
       "offer": "selected",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -220,16 +220,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/packages-0.1.3-1-x86_64-linux-e7f3a156d2dcb733.tar.zst",
-      "hash": "sha256-jWsx+5KJKB2X23HLWkbBShhb9rSIYQrrETTJ3bnYke8="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/packages-0.1.4-1-x86_64-linux-19e0c9d2bc79e5d1.tar.zst",
+      "hash": "sha256-AScs34SAjBjOan02G8ONHIkKTipfkyIgN8/i2HL6i1Y="
     },
     "paint": {
       "name": "Paint",
       "summary": "Open, look at and edit pictures",
       "offer": "selected",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -238,16 +238,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/paint-0.1.3-1-x86_64-linux-a426e7792dfc40f2.tar.zst",
-      "hash": "sha256-qQBS4Fate2MKfPLE/Rgh3IA4mRwMjAEJ2xIXMsciVWw="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/paint-0.1.4-1-x86_64-linux-6400e7f0cb638834.tar.zst",
+      "hash": "sha256-nU4y6sn+q2/7mddleSJBge1PVNt+LE7Z0hnyTFWwoj4="
     },
     "proton": {
       "name": "Proton",
       "summary": "Mail, Drive, Pass and Authenticator of a Proton account",
       "offer": "offered",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -256,16 +256,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/proton-0.1.3-1-x86_64-linux-90c3afedf26bd13c.tar.zst",
-      "hash": "sha256-mhQ+gZ1ND3QK9ndnycSH9DSEeBDRNrRQtvVx8dTNwKQ="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/proton-0.1.4-1-x86_64-linux-0b5df8385f13336a.tar.zst",
+      "hash": "sha256-+fBZrYC8fTc1thbPrw31X3rignpCnwyipKOgYSzmJO4="
     },
     "remote": {
       "name": "Remote desktop server",
       "summary": "Serves this session to Rikka Remote Viewer over QUIC",
       "offer": "offered",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [
         "rikka-remote"
@@ -275,16 +275,16 @@
         "share/systemd/user/rikka-remote.service"
       ],
       "links": {},
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/remote-0.1.3-1-x86_64-linux-129991b66e57478d.tar.zst",
-      "hash": "sha256-fWpgmNjXKRKFGn0kQc0FUw6wUtyNOQMuAsnOQlMWlXU="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/remote-0.1.4-1-x86_64-linux-c2b979d0e8f50fc3.tar.zst",
+      "hash": "sha256-YQB5mOTFyVL3JDR8NZCaLNBj2q0M8HYPoz5r6Nch6vI="
     },
     "remote-viewer": {
       "name": "Remote Desktop",
       "summary": "View and control another Rikka desktop",
       "offer": "offered",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -293,16 +293,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/remote-viewer-0.1.3-1-x86_64-linux-f0258ea98bd0422d.tar.zst",
-      "hash": "sha256-wJPGLEDDZowoEf2uZuugLClUYKMzc/v76KkMWqSuqf4="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/remote-viewer-0.1.4-1-x86_64-linux-1115e81a202c19c0.tar.zst",
+      "hash": "sha256-gIYpK7LnCSPyknHfF6ko6yt0wwXXSa9m6uZXa7aOmbM="
     },
     "replay": {
       "name": "Instant replay",
       "summary": "Keeps the last minutes of the screen in memory to save as a clip",
       "offer": "offered",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -310,16 +310,16 @@
         "share/systemd/user/rikka-replay.service"
       ],
       "links": {},
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/replay-0.1.3-1-x86_64-linux-e4c70c92149c2e26.tar.zst",
-      "hash": "sha256-H7vu+KSdWAFG2FayExH3yYKHYwzUh7y0C1W4pyKdLdk="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/replay-0.1.4-1-x86_64-linux-1e634c876bf62fa7.tar.zst",
+      "hash": "sha256-V4RbR0QZnvzELLA0WJ+oiJ1hn8fKx+nIuGf4bGcHCKw="
     },
     "sdk": {
       "name": "Application SDK",
       "summary": "librikka with C and C++ headers and Go, C#, Java and Python bindings",
       "offer": "offered",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -330,16 +330,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/sdk-0.1.3-1-x86_64-linux-57dc46ff6a9d5f34.tar.zst",
-      "hash": "sha256-Dzs32UrMfuVJe7geU/8GrhGthnsG7JL3Sk7Zr4MuKkw="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/sdk-0.1.4-1-x86_64-linux-f4df16307f4bb9f4.tar.zst",
+      "hash": "sha256-p7t4vO6KG630+F7Pj1chNZsd4twb66LlZxUe+kY+DYs="
     },
     "settings": {
       "name": "Settings",
       "summary": "Change how this desktop looks and behaves",
       "offer": "required",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -348,16 +348,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/settings-0.1.3-1-x86_64-linux-e507dca23e496c6f.tar.zst",
-      "hash": "sha256-lQvKSOdajzYO61wbXQwUuhUFAKFLtWMMqfGmKjU36rk="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/settings-0.1.4-1-x86_64-linux-90b75e1ec885e044.tar.zst",
+      "hash": "sha256-m4TmB/pwzvXsghXgTMskYDelvy8rR1dMrLkjWz9LACM="
     },
     "task-manager": {
       "name": "Task Manager",
       "summary": "Watch what is running and what it is costing",
       "offer": "selected",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -366,16 +366,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/task-manager-0.1.3-1-x86_64-linux-dacca2aa62581ec6.tar.zst",
-      "hash": "sha256-dF9+zBBocwbgtk/a89yyQ8XqnGhkxjFcQvr/eEvtRJ4="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/task-manager-0.1.4-1-x86_64-linux-bafd4ab3234ecdf5.tar.zst",
+      "hash": "sha256-QTTj0Rva8+yO3iKIBV6c1u+PIG0iMJAm9UYJhy4nDOg="
     },
     "terminal": {
       "name": "Terminal",
       "summary": "Run a shell",
       "offer": "required",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -384,16 +384,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/terminal-0.1.3-1-x86_64-linux-433daf564705caed.tar.zst",
-      "hash": "sha256-E7rjqhhj5Z/sKjiH1CcF85BnszqLHph8fkMHaiUYljk="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/terminal-0.1.4-1-x86_64-linux-cbace25cca52596e.tar.zst",
+      "hash": "sha256-j6xa6JXzYh3QNNwWlht4MVtir+uiPn8woShU1iq2RMY="
     },
     "updates": {
       "name": "System Updates",
       "summary": "Follow and review changes applied to this system",
       "offer": "required",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -402,16 +402,16 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/updates-0.1.3-1-x86_64-linux-d6597c5c0a1b024b.tar.zst",
-      "hash": "sha256-SmieyXBjVP8BGcDleFMDLhYmDr09zuiqHwVaCVHo3Yg="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/updates-0.1.4-1-x86_64-linux-c0ce270f293176e7.tar.zst",
+      "hash": "sha256-I/2KvfeTIbpbtTT8JCPnYx/dVS6jComQ5YB7OwlvGhc="
     },
     "viewer": {
       "name": "Viewer",
       "summary": "Take a quick look at pictures, sound, film, models and text",
       "offer": "selected",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "build": 1,
-      "revision": "357e27405dff25e34589c72cd3d58ce325796710",
+      "revision": "b3bf2c30656f2a4a1b91cea32e7c999d803bb578",
       "requires": "0.1.0",
       "pam": [],
       "portal": false,
@@ -420,8 +420,8 @@
         "lib/rikka/grammars": "grammars-fa53fdc259e27fde",
         "share/rikka/fonts": "icon-fonts"
       },
-      "url": "https://github.com/project-rikka/packages/releases/download/binaries/viewer-0.1.3-1-x86_64-linux-bd9c2e3092c0f515.tar.zst",
-      "hash": "sha256-++4K6LYN4vxJQPIf6HeMO4i/uu2I5vkkqtN92PANqI0="
+      "url": "https://github.com/project-rikka/packages/releases/download/binaries/viewer-0.1.4-1-x86_64-linux-f5316f643ade5a8c.tar.zst",
+      "hash": "sha256-L9B4D99crywhDfS94yXPJLYB8HLL4b6Z6gB/Jm5ZrBs="
     }
   },
   "installer": {
