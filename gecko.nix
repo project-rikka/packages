@@ -44,14 +44,14 @@
   vulkan-loader,
 }:
 
-stdenv.mkDerivation (finalAttrs: {
+let
+  pin = lib.importJSON ./gecko.json;
+in
+stdenv.mkDerivation {
   pname = "rikka-gecko";
-  version = "158.0.1-6565d635a84c";
+  inherit (pin) version;
 
-  src = fetchurl {
-    url = "https://github.com/project-rikka/gecko/releases/download/${finalAttrs.version}/rikka-gecko-${finalAttrs.version}-x86_64-linux.tar.zst";
-    hash = "sha256-PaVUxvzCGdP0y55t3GxeqDNrYciOkKRQ+9B2cWicFKs=";
-  };
+  src = fetchurl { inherit (pin) url hash; };
 
   sourceRoot = "rikka-gecko";
 
@@ -124,9 +124,9 @@ stdenv.mkDerivation (finalAttrs: {
 
   meta = {
     description = "Gecko as an embeddable engine for Rikka";
-    homepage = "https://github.com/project-rikka/gecko";
+    homepage = "https://github.com/project-rikka/rikka/tree/main/engine/gecko";
     license = lib.licenses.mpl20;
     platforms = [ "x86_64-linux" ];
     sourceProvenance = [ lib.sourceTypes.binaryNativeCode ];
   };
-})
+}
