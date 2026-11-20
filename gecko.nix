@@ -51,7 +51,10 @@ stdenv.mkDerivation {
   pname = "rikka-gecko";
   inherit (pin) version;
 
-  src = fetchurl { inherit (pin) url hash; };
+  src = fetchurl {
+    name = "rikka-gecko-${pin.version}-x86_64-linux.tar.zst";
+    inherit (pin) url hash;
+  };
 
   sourceRoot = "rikka-gecko";
 
