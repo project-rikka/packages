@@ -425,9 +425,9 @@
     }
   },
   "installer": {
-    "version": "0.1.0",
-    "revision": "24094dd02d06fb8c6135b30b20dab3edc176f87b",
+    "version": "0.1.5",
+    "revision": "95c6fba03441506ada7d488a966ad0f603cb47f1",
     "url": "https://github.com/project-rikka/packages/releases/download/binaries/rikka-installer-x86_64-linux",
-    "hash": "sha256-U2OeBbLLSJlMsF/+LZREeOB1H50L+f7yBPJbsPrZ+/k="
+    "hash": "sha256-we3Wo5UeH+2JRzc0GEK3K7JzsnZjDksW600TI3gB3Mk="
   }
 }
